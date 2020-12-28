@@ -1,0 +1,17 @@
+.fr-btn
+{
+    color: purple;
+    background-color: lightgray;
+    border: none;
+    border-radius: 10px;
+    margin-left: 130px;
+}
+
+.card-id
+{
+    width: 70%;
+    border: 15px solid green;
+    padding: 50px;
+    margin: auto;
+    margin-top: 20px;
+}
